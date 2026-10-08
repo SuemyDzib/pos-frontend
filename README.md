@@ -64,9 +64,9 @@ Está construida con **Next.js 15** (App Router), **React 19**, **TypeScript** y
    ```
 
    ```env
-   API_URL=http://localhost:3001
-   NEXT_PUBLIC_API_URL=http://localhost:3001
-   NEXT_PUBLIC_DOMAIN=http://localhost:3000
+   API_URL=http://localhost:3000
+   NEXT_PUBLIC_API_URL=http://localhost:3000
+   NEXT_PUBLIC_DOMAIN=http://localhost:3001
    ```
 
 4. Inicia el servidor de desarrollo:
